@@ -1,0 +1,89 @@
+#thebestgames {
+    color:rgb(255, 60, 0);
+    margin-left: 800px;
+   font-style: italic;
+   font-size: 10mm;
+   margin-top: 50px;
+}
+
+html{
+    background-image: url(https://media.giphy.com/media/l378gVDO562QL8ecM/giphy.gif);
+}
+
+#val{
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+#gta{
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+#minecraft{
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 60px;
+    width: 300px;
+}
+
+#hitman{
+    height: 200px;
+    margin-left: 200px; 
+    margin-top: 60px;
+    
+}
+
+#control{
+    height: 200px;
+    margin-left: 200px; 
+    margin-top: 60px;
+}
+#gmod{
+    height: 200px;
+    margin-left: 200px; 
+    margin-top: 60px;
+}
+#amongus{
+    height: 200px;
+    margin-left: 200px; 
+    margin-top: 60px;
+}
+#uno{
+    height: 200px;
+    margin-left: 200px; 
+    margin-top: 60px;
+}
+
+#sims{
+    height: 200px;
+    margin-left: 200px; 
+    margin-top: 60px;
+}
+
+#check{
+    color:rgb(255, 60, 0);
+    margin-left: 700px;
+   font-style: italic;
+   font-size: 10mm;
+   margin-top: 50px;
+}
+
+#epic{
+    height: 200px;
+    margin-left: 200px; 
+}
+
+#ubisoft{
+    height: 200px;
+    margin-left: 200px; 
+    margin-top: 60px;
+}
+
+#blizzard{
+    height: 200px;
+    margin-left: 550px; 
+    margin-top: 60px;
+}
