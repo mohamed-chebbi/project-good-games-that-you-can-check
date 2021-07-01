@@ -1,6 +1,6 @@
 #thebestgames {
     color:rgb(255, 60, 0);
-    margin-left: 800px;
+    margin-left: 600px;
    font-style: italic;
    font-size: 10mm;
    margin-top: 50px;
@@ -10,62 +10,57 @@ html{
     background-image: url(https://media.giphy.com/media/l378gVDO562QL8ecM/giphy.gif);
 }
 
-#val{
-    height: 200px;
+#val,#gta{
+    height: 315px;
     margin-left: 100px;
     margin-top: 60px;
 }
 
-#gta{
-    height: 200px;
-    margin-left: 100px;
-    margin-top: 60px;
-}
 
 #minecraft{
-    height: 200px;
+    height: 315px;
     margin-left: 100px;
     margin-top: 60px;
-    width: 300px;
+    width: 400px;
 }
 
 #hitman{
-    height: 200px;
-    margin-left: 200px; 
+    height: 315px;
+    margin-left: 100px; 
     margin-top: 60px;
     
 }
 
 #control{
-    height: 200px;
-    margin-left: 200px; 
+    height: 315px;
+    margin-left: 100px; 
     margin-top: 60px;
 }
 #gmod{
-    height: 200px;
+    height: 315px;
     margin-left: 200px; 
     margin-top: 60px;
 }
 #amongus{
-    height: 200px;
-    margin-left: 200px; 
+    height: 315px;
+    margin-left: 100px; 
     margin-top: 60px;
 }
 #uno{
-    height: 200px;
-    margin-left: 200px; 
+    height: 315px;
+    margin-left: 100px; 
     margin-top: 60px;
 }
 
 #sims{
-    height: 200px;
+    height: 315px;
     margin-left: 200px; 
     margin-top: 60px;
 }
 
 #check{
     color:rgb(255, 60, 0);
-    margin-left: 700px;
+    margin-left: 500px;
    font-style: italic;
    font-size: 10mm;
    margin-top: 50px;
@@ -87,3 +82,76 @@ html{
     margin-left: 550px; 
     margin-top: 60px;
 }
+
+#scavenger{
+    height: 250px;
+    margin-left: 100px; 
+    margin-top: 60px;
+}
+
+#tomb{
+    height: 315px;
+    margin-left: 100px; 
+    margin-top: 60px;
+}
+
+#valorant{
+   
+    margin-left: 200px; 
+    margin-top: 60px;
+}
+
+#gta5{
+    margin-left:249px; 
+    margin-top: 60px;  
+}
+
+#mine{
+    margin-left:350px; 
+    margin-top: 60px;  
+}
+
+
+#hitman3{
+    margin-left:200px; 
+    margin-top: 60px;  
+}
+
+#con{
+    margin-left:220px; 
+    margin-top: 60px;    
+}
+
+#garry{
+    margin-left:355px; 
+    margin-top: 60px;  
+}
+
+#us{
+    margin-left: 210px; 
+    margin-top: 60px;
+}
+
+#u{
+    margin-left: 210px; 
+    margin-top: 60px;  
+}
+
+#sim{
+    margin-left: 350px; 
+    margin-top: 60px;  
+}
+
+
+#scav{
+    margin-left:235px; 
+    margin-top: 60px;  
+}
+
+#raider{
+    margin-left:220px; 
+    margin-top: 60px;  
+}
+
+
+

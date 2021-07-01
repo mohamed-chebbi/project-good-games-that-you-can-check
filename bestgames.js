@@ -51,3 +51,12 @@ function ubisoft(){
 function blizzard(){
    window.open("https://www.blizzard.com/en-gb/")
 }
+
+
+function scavenger(){
+   window.open("https://www.playscavengers.com/en")
+}
+
+function tomb(){
+   window.open("https://tombraider.square-enix-games.com/en-gb")
+}
