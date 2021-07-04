@@ -60,3 +60,17 @@ function scavenger(){
 function tomb(){
    window.open("https://tombraider.square-enix-games.com/en-gb")
 }
+
+
+var button=document.getElementById("add-task")
+
+
+
+button.onclick=function(){
+    var text = $("#input-task").val()
+    $("#todo-list").append("<li>"+ text + "</li>")
+    $("#input-task").val("")
+   
+}
+
+
